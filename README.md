@@ -1,1 +1,2 @@
-# codex-necessaries
+# codex-essentials
+
